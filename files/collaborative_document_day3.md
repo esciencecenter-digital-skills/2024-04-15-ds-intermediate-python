@@ -128,8 +128,3 @@ Map: N ^ (rotation invariant)
 ## 📚 Resources
 - A list of useful resources that we have gathered as a result of questions in previous instances of this workshop: https://github.com/esciencecenter-digital-skills/workshop-metadata/blob/main/ds-intermediate-python/resources.md
 - Good reference to keep your humor up: https://xkcd.com/
-
-
-## Post workshop survey link
-
-https://www.surveymonkey.com/r/8PJK9FH

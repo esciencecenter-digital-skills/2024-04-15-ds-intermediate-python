@@ -164,26 +164,3 @@ Please request your certificate within 8 months after the workshop, as we will d
 ## 📚 Resources
 
 
-## :bulb: Tip&top :thumbsup: 
-
-### Top (what did you really like about today?)
-
-- Great that tere is plenty of help available, with knowledgeable and kind instructors.
-- Very nice to discover the actual code individually, instead of watching a live code session.
-- The instructors are very knowledgeable and patient with any questions (also questions that may be slightly outside of the scope of the course)
-- I like the work-at-your-own pace, rather than typing along like in many other carpentry workshops
-- Lots of useful content! helpful and knowledgeable instructors, very nice colleagues, super interesting, thanks!
-- Workshop content is thorough and very usefull.
-- Great! learned a lot by troubleshooting my setup
-- Great content 
-- Very useful and hands-on workhop. I will be able to use the information I learned today directly in my projects! Thanks!
-
-### Tip (what would you like us to improve?)
-
-- Be more clear about when a certain sub-section has to be finished so it would be easier to keep on track.
-- Time management :)
-- introtrodu was maybe too long
-- Some of the presentations could be more concise, the presenters are repeating themselves and the slides a lot, which takes a significant amount of time. Given that there are some timing issues, this may be a good spot to save some time
-- About the setup: it would be useful to communicate the time of the setup session and the fact that it is online before/at the registration for the course. Now you need to answer whether you will be there without those details, and by the time the details were communicated I was not able to move my meetings anymore
-- Adding examples/screenshots on different systems would be nice, lots of work though
-- The ["Scaling up testing using build matrices"](https://carpentries-incubator.github.io/python-intermediate-development/23-continuous-integration-automated-testing/index.html#scaling-up-testing-using-build-matrices) part where we have to change the main.yml file isn't very clear. The code block with the new code doesn't specify where exactly in the previous code we have to implement it. 

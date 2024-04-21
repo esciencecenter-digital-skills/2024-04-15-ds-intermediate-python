@@ -156,20 +156,3 @@ Poetry: the `--dev` option is deprecated, use the `--group dev` notation instead
 ## 📚 Resources
 - [Github badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
 
-## :bulb: Tip&top :thumbsup: 
-
-### Top (what did you really like about today?)
-
-- Lots of info about architechtures and paradigms in a condensed way, nice
-- Very interesting content
-- Really nice content, I liked the mix between versioning and coding paradigms and playing around with the different implementations was cool
-- As others, the condensed information on software engineering/architecture and paradigms is really helpful.
-- Nice wake-up song
-
-### Tip (what would you like us to improve?)
-
-- Perhaps having a "secret" complete, fully formed repo with exercises so people can pull it if lagged behind 
-- It would be nice if all the lunch sandwiches are like the few nice ones that are in the smaller box now, so everyone can have a good sandwich :)
-- There appear to be some mistakes with branch names in the tutorial. 
-- It's not very clear how we can change everything and re-submit after the code review with the pull request. 
-- A sort of heads-up about where we needed to sync with out group mates to start section 4 ahead of time would be nice, since now some people needed to rush a bit and it might be detrimental to information retention
